@@ -21,7 +21,7 @@ p{
 	text-align: left;
 }
 
-.social{
+.social {
   position: fixed;
   text-align: center;
   vertical-align: middle;
@@ -30,6 +30,7 @@ p{
   height: 50px;
   float: left;
   z-index: 1;
+  float: left;
 }
 
 
