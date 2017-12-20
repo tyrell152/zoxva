@@ -74,8 +74,8 @@ html, body {
 }
 
 body {
-    background: #ffa500;
-   font-family: helvetica;
+    /* background: #ffa500; */
+    font-family: helvetica;
     font-size: 1.7rem;
     font-style: normal;
     font-weight: bolder;
@@ -837,15 +837,15 @@ input[type="button"] {
     line-height: calc(5.4rem - .4rem);
     padding: 0 3rem;
     margin: 0 .3rem 1.2rem 0;
-    color: #000000;
+    color: #ffffff;
     text-decoration: none;
     text-align: center;
     white-space: nowrap;
     cursor: pointer;
     -webkit-transition: all 0.3s ease-in-out;
     transition: all 0.3s ease-in-out;
-    background-color: #c5c5c5;
-    border: .2rem solid #c5c5c5;
+    background-color: red;
+    border: .2rem solid red;
 }
 
 .btn:hover,
@@ -1307,40 +1307,48 @@ button::-moz-focus-inner, input::-moz-focus-inner {
 @media only screen and (max-width: 1200px) {
     .display-1 {
         font-size: 7.2rem;
+        font-weight: bold;
     }
     .display-2 {
         font-size: 4.4rem;
+        font-weight: bold;
     }
 }
 
 @media only screen and (max-width: 800px) {
     .display-1 {
-    font-size: 6.5rem;
-    font-weight: bold;
-}
+        font-size: 6.5rem;
+        font-weight: bold;
+    }
     .display-2 {
         font-size: 4rem;
+        font-weight: bold;
     }
 }
 
 @media only screen and (max-width: 600px) {
     .display-1 {
         font-size: 5rem;
+        font-weight: bold;
     }
     .display-2 {
         font-size: 3.3rem;
+        font-weight: bold;
     }
     .subhead {
         font-size: 1.5rem;
+        font-weight: bold;
     }
 }
 
 @media only screen and (max-width: 400px) {
     .display-1 {
         font-size: 4.2rem;
+        font-weight: bold;
     }
     .display-2 {
         font-size: 3rem;
+        font-weight: bold;
     }
 }
 
