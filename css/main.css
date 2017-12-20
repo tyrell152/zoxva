@@ -74,19 +74,11 @@ html, body {
 }
 
 body {
-<<<<<<< HEAD
-    background: #111111;
-    font-family: "lora-regular", serif;
-    font-size: 1.7rem;
-    font-style: normal;
-    font-weight: normal;
-=======
     background: #ffa500;
    font-family: helvetica;
     font-size: 1.7rem;
     font-style: normal;
     font-weight: bolder;
->>>>>>> parent of 6a7567c... link
     line-height: 1.765;
     color: #757575;
     margin: 0;
@@ -98,38 +90,25 @@ body {
  * ## links
  * ------------------------------------------------------------------- */
 a {
-<<<<<<< HEAD
-    color: #0087cc;
-=======
     color: white;
->>>>>>> parent of 6a7567c... link
     -webkit-transition: all 0.3s ease-in-out;
     transition: all 0.3s ease-in-out;
 }
 
 a:hover, a:focus, a:active {
-<<<<<<< HEAD
-    color: #39b54a;
-}
-
-=======
     color: ;
 }
 
 
 
->>>>>>> parent of 6a7567c... link
 a:hover, a:active {
     outline: 0;
 }
 
-<<<<<<< HEAD
-=======
 u:hover, u:focus, u:active {
     color: #FFA500;
 }
 
->>>>>>> parent of 6a7567c... link
 
 
 /* ===================================================================
@@ -138,18 +117,11 @@ u:hover, u:focus, u:active {
  * ------------------------------------------------------------------- */
 h1, h2, h3, h4, h5, h6, 
 .h1, .h2, .h3, .h4, .h5, .h6 {
-<<<<<<< HEAD
-    font-family: "montserrat-medium", sans-serif;
-    color: #000000;
-    font-style: normal;
-    font-weight: normal;
-=======
     font-family: helvetica;
     font-weight: bolder;
     color: #000000;
     font-style: normal;
     font-weight: bolder;
->>>>>>> parent of 6a7567c... link
     text-rendering: optimizeLegibility;
 }
 
@@ -221,15 +193,9 @@ p img {
 }
 
 p.lead {
-<<<<<<< HEAD
-    font-family: "montserrat-regular", sans-serif;
-    font-size: 2rem;
-    font-weight: 300;
-=======
     font-family: helvetica;
     font-size: 2rem;
     font-weight: bolder;
->>>>>>> parent of 6a7567c... link
     line-height: 1.8;
     margin-bottom: 3.6rem;
     color: #000000;
@@ -245,17 +211,6 @@ em, i, strong, b {
     font-size: inherit;
     line-height: inherit;
     font-style: normal;
-<<<<<<< HEAD
-    font-weight: normal;
-}
-
-em, i {
-    font-family: "lora-italic", serif;
-}
-
-strong, b {
-    font-family: "lora-bold", serif;
-=======
     font-weight: bolder;
 }
 
@@ -265,7 +220,6 @@ em, i {
 
 strong, b {
     font-family: helvetica;
->>>>>>> parent of 6a7567c... link
 }
 
 small {
@@ -285,24 +239,12 @@ blockquote:before {
     line-height: 0px;
     margin: 0;
     color: rgba(0, 0, 0, 0.25);
-<<<<<<< HEAD
-    font-family: arial, sans-serif;
-=======
     font-family: helvetica;
->>>>>>> parent of 6a7567c... link
     position: absolute;
     top: 3.6rem;
     left: 0;
 }
 
-<<<<<<< HEAD
-blockquote p {
-    font-family: "montserrat-regular", sans-serif;
-    padding: 0;
-    font-size: 2.1rem;
-    line-height: 1.857;
-    color: #111111;
-=======
 .logoscroll{
         position: fixed;
         left: 39px;
@@ -342,16 +284,11 @@ blockquote p {
     font-size: 2.1rem;
     line-height: 1.857;
     color: black;
->>>>>>> parent of 6a7567c... link
 }
 
 blockquote cite {
     display: block;
-<<<<<<< HEAD
-    font-family: "montserrat-regular", sans-serif;
-=======
     font-family: helvetica;
->>>>>>> parent of 6a7567c... link
     font-size: 1.4rem;
     font-style: normal;
     line-height: 1.5;
@@ -367,11 +304,7 @@ blockquote cite a, blockquote cite a:visited {
 }
 
 abbr {
-<<<<<<< HEAD
-    font-family: "lora-bold", serif;
-=======
     font-family: helvetica;
->>>>>>> parent of 6a7567c... link
     font-variant: small-caps;
     text-transform: lowercase;
     letter-spacing: .05rem;
@@ -379,11 +312,7 @@ abbr {
 }
 
 var, kbd, samp, code, pre {
-<<<<<<< HEAD
-    font-family: Consolas, "Andale Mono", Courier, "Courier New", monospace;
-=======
     font-family: helvetica;
->>>>>>> parent of 6a7567c... link
 }
 
 pre {
@@ -478,11 +407,7 @@ ul.disc li::before {
     width: 8px;
     height: 8px;
     border-radius: 50%;
-<<<<<<< HEAD
-    background: #39b54a;
-=======
     background: #FFA500;
->>>>>>> parent of 6a7567c... link
     position: absolute;
     left: -17px;
     top: 11px;
@@ -491,11 +416,7 @@ ul.disc li::before {
 
 dt {
     margin: 0;
-<<<<<<< HEAD
-    color: #39b54a;
-=======
     color: #FFA500;
->>>>>>> parent of 6a7567c... link
 }
 
 dd {
@@ -544,11 +465,7 @@ table {
     border-width: 0;
     width: 100%;
     max-width: 100%;
-<<<<<<< HEAD
-    font-family: "lora-regular", serif;
-=======
    font-family: helvetica;
->>>>>>> parent of 6a7567c... link
 }
 
 th, td {
@@ -559,11 +476,7 @@ th, td {
 
 th {
     color: #000000;
-<<<<<<< HEAD
-    font-family: "montserrat-bold", sans-serif;
-=======
     font-family: helvetica;
->>>>>>> parent of 6a7567c... link
 }
 
 td {
@@ -629,11 +542,7 @@ form,
 }
 
 .pace .pace-progress {
-<<<<<<< HEAD
-    background: #39b54a;
-=======
     background: #FFA500;
->>>>>>> parent of 6a7567c... link
     position: fixed;
     z-index: 900;
     top: 0;
@@ -676,11 +585,7 @@ form,
 }
 
 .line-scale-pulse-out > div {
-<<<<<<< HEAD
-    background-color: #39b54a;
-=======
     background-color: #FFA500;
->>>>>>> parent of 6a7567c... link
     width: 4px;
     height: 35px;
     border-radius: 2px;
@@ -757,11 +662,7 @@ select {
     border: 0;
     outline: none;
     color: #333333;
-<<<<<<< HEAD
-    font-family: "montserrat-light", sans-serif;
-=======
     font-family: helvetica;
->>>>>>> parent of 6a7567c... link
     font-size: 1.4rem;
     line-height: 3rem;
     max-width: 100%;
@@ -845,15 +746,9 @@ select:focus {
 }
 
 label, legend {
-<<<<<<< HEAD
-    font-family: "montserrat-regular", sans-serif;
-    font-size: 1.4rem;
-    font-weight: bold;
-=======
     font-family: helvetica;
     font-size: 1.4rem;
     font-weight: bolder;
->>>>>>> parent of 6a7567c... link
     margin-bottom: .9rem;
     line-height: 1.714;
     color: #000000;
@@ -867,13 +762,8 @@ input[type="checkbox"], input[type="radio"] {
 label > .label-text {
     display: inline-block;
     margin-left: 1rem;
-<<<<<<< HEAD
-    font-family: "montserrat-regular", sans-serif;
-    font-weight: normal;
-=======
     font-family: helvetica;
     font-weight: bolder;
->>>>>>> parent of 6a7567c... link
     line-height: inherit;
 }
 
@@ -922,11 +812,7 @@ textarea:-webkit-autofill:hover textarea:-webkit-autofill:focus,
 select:-webkit-autofill,
 select:-webkit-autofill:hover,
 select:-webkit-autofill:focus {
-<<<<<<< HEAD
-    -webkit-text-fill-color: #39b54a;
-=======
     -webkit-text-fill-color: #FFA500;
->>>>>>> parent of 6a7567c... link
     transition: background-color 5000s ease-in-out 0s;
 }
 
@@ -942,12 +828,8 @@ input[type="submit"],
 input[type="reset"],
 input[type="button"] {
     display: inline-block;
-<<<<<<< HEAD
-    font-family: "montserrat-medium", sans-serif;
-=======
     font-family: helvetica;
     font-weight: bolder;
->>>>>>> parent of 6a7567c... link
     font-size: 1.2rem;
     text-transform: uppercase;
     letter-spacing: .3rem;
@@ -991,13 +873,8 @@ button.btn--primary,
 input[type="submit"].btn--primary,
 input[type="reset"].btn--primary,
 input[type="button"].btn--primary {
-<<<<<<< HEAD
-    background: #39b54a;
-    border-color: #39b54a;
-=======
     background: #FFA500;
     border-color: #FFA500;
->>>>>>> parent of 6a7567c... link
     color: #FFFFFF;
 }
 
@@ -1036,13 +913,8 @@ input[type="button"].btn--primary:focus {
 
 .btn--stroke, button.btn--stroke {
     background: transparent !important;
-<<<<<<< HEAD
-    border: 0.2rem solid #39b54a;
-    color: #39b54a;
-=======
     border: 0.2rem solid #FFA500;
     color: #FFA500;
->>>>>>> parent of 6a7567c... link
 }
 
 .btn--stroke:hover, button.btn--stroke:hover {
@@ -1076,11 +948,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
     position: relative;
     margin-bottom: 3rem;
     border-radius: 3px;
-<<<<<<< HEAD
-    font-family: "montserrat-regular", sans-serif;
-=======
     font-family: helvetica;
->>>>>>> parent of 6a7567c... link
     font-size: 1.5rem;
     line-height: 1.6;
 }
@@ -1129,13 +997,8 @@ button::-moz-focus-inner, input::-moz-focus-inner {
     margin: 0;
     padding: 1.5rem .6rem 0 0;
     font-size: 8.4rem;
-<<<<<<< HEAD
-    font-family: "montserrat-regular", sans-serif;
-    font-weight: bold;
-=======
     font-family: helvetica;
     font-weight: bolder;
->>>>>>> parent of 6a7567c... link
     line-height: 6rem;
     text-indent: 0;
     background: transparent;
@@ -1213,11 +1076,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
     height: 1em;
     position: absolute;
     font-size: 10rem;
-<<<<<<< HEAD
-    font-family: Arial, Sans-Serif;
-=======
     font-family: helvetica;
->>>>>>> parent of 6a7567c... link
     color: rgba(0, 0, 0, 0.25);
 }
 
@@ -1276,34 +1135,21 @@ button::-moz-focus-inner, input::-moz-focus-inner {
 .stats-tabs li a {
     display: inline-block;
     font-size: 2.5rem;
-<<<<<<< HEAD
-    font-family: "montserrat-regular", sans-serif;
-    font-weight: bold;
-=======
     font-family: helvetica;
     font-weight: bolder;
->>>>>>> parent of 6a7567c... link
     border: none;
     color: #000000;
 }
 
 .stats-tabs li a:hover {
-<<<<<<< HEAD
-    color: #39b54a;
-=======
     color: #FFA500;
->>>>>>> parent of 6a7567c... link
 }
 
 .stats-tabs li a em {
     display: block;
     margin: .6rem 0 0 0;
     font-size: 1.4rem;
-<<<<<<< HEAD
-    font-family: "montserrat-regular", sans-serif;
-=======
     font-family: helvetica;
->>>>>>> parent of 6a7567c... link
     color: #828282;
 }
 
@@ -1329,11 +1175,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
     position: absolute;
     left: 0;
     top: -3rem;
-<<<<<<< HEAD
-    font-family: "montserrat-bold", sans-serif;
-=======
     font-family: helvetica;
->>>>>>> parent of 6a7567c... link
     color: #000000;
     text-transform: uppercase;
     letter-spacing: .2rem;
@@ -1352,11 +1194,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
     right: 0;
     top: -3.6rem;
     display: block;
-<<<<<<< HEAD
-    font-family: "montserrat-regular", sans-serif;
-=======
     font-family: helvetica;
->>>>>>> parent of 6a7567c... link
     color: #FFFFFF;
     font-size: 1.1rem;
     line-height: 1;
@@ -1416,13 +1254,9 @@ button::-moz-focus-inner, input::-moz-focus-inner {
  * ## display headings
  * ------------------------------------------------------------------- */
 .display-1 {
-<<<<<<< HEAD
-    font-family: "montserrat-medium", sans-serif;
-=======
     font-weight: bold;
     font-family: helvetica;
     font-weight: bolder;
->>>>>>> parent of 6a7567c... link
     font-size: 7.8rem;
     line-height: 1.25;
     color: #000000;
@@ -1434,18 +1268,11 @@ button::-moz-focus-inner, input::-moz-focus-inner {
 }
 
 .display-2 {
-<<<<<<< HEAD
-    font-family: "montserrat-medium", sans-serif;
-    font-size: 5.2rem;
-    line-height: 1.255;
-    color: #000000;
-=======
     font-family: helvetica;
     font-weight: bold;
     font-size: 5.2rem;
     line-height: 1.255;
     color: #FFA500;
->>>>>>> parent of 6a7567c... link
     margin-top: 0;
 }
 
@@ -1458,20 +1285,12 @@ button::-moz-focus-inner, input::-moz-focus-inner {
 }
 
 .subhead {
-<<<<<<< HEAD
-    font-family: "montserrat-bold", sans-serif;
-=======
     font-family: helvetica;
->>>>>>> parent of 6a7567c... link
     font-size: 1.7rem;
     line-height: 1.333;
     text-transform: uppercase;
     letter-spacing: .25rem;
-<<<<<<< HEAD
-    color: #39b54a;
-=======
     color: #FFA500;
->>>>>>> parent of 6a7567c... link
     margin-top: 0;
     margin-bottom: 0;
 }
@@ -1488,48 +1307,28 @@ button::-moz-focus-inner, input::-moz-focus-inner {
 @media only screen and (max-width: 1200px) {
     .display-1 {
         font-size: 7.2rem;
-<<<<<<< HEAD
-    }
-    .display-2 {
-        font-size: 4.4rem;
-=======
         font-weight: bold;
     }
     .display-2 {
         font-size: 4.4rem;
         font-weight: bold;
->>>>>>> parent of 6a7567c... link
     }
 }
 
 @media only screen and (max-width: 800px) {
     .display-1 {
         font-size: 6.5rem;
-<<<<<<< HEAD
-    }
-    .display-2 {
-        font-size: 4rem;
-=======
         font-weight: bold;
     }
     .display-2 {
         font-size: 4rem;
         font-weight: bold;
->>>>>>> parent of 6a7567c... link
     }
 }
 
 @media only screen and (max-width: 600px) {
     .display-1 {
         font-size: 5rem;
-<<<<<<< HEAD
-    }
-    .display-2 {
-        font-size: 3.3rem;
-    }
-    .subhead {
-        font-size: 1.5rem;
-=======
         font-weight: bold;
     }
     .display-2 {
@@ -1539,24 +1338,17 @@ button::-moz-focus-inner, input::-moz-focus-inner {
     .subhead {
         font-size: 1.5rem;
         font-weight: bold;
->>>>>>> parent of 6a7567c... link
     }
 }
 
 @media only screen and (max-width: 400px) {
     .display-1 {
         font-size: 4.2rem;
-<<<<<<< HEAD
-    }
-    .display-2 {
-        font-size: 3rem;
-=======
         font-weight: bold;
     }
     .display-2 {
         font-size: 3rem;
         font-weight: bold;
->>>>>>> parent of 6a7567c... link
     }
 }
 
@@ -1681,11 +1473,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
 
 .slick-slider .slick-dots li.slick-active button,
 .slick-slider .slick-dots li:hover button {
-<<<<<<< HEAD
-    background: #39b54a;
-=======
     background: #FFA500;
->>>>>>> parent of 6a7567c... link
 }
 
 
@@ -1726,11 +1514,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
     padding: 0;
     outline: 0;
     border: none;
-<<<<<<< HEAD
-    width: 80px;
-=======
     width: 120px;
->>>>>>> parent of 6a7567c... link
     -webkit-transition: all 0.3s ease-in-out;
     transition: all 0.3s ease-in-out;
 }
@@ -1740,15 +1524,9 @@ button::-moz-focus-inner, input::-moz-focus-inner {
  * ## main navigation 
  * ------------------------------------------------------------------- */
 .header-nav {
-<<<<<<< HEAD
-    background: #0C0C0C;
-    color: rgba(255, 255, 255, 0.25);
-    font-family: "montserrat-light", sans-serif;
-=======
     background: black;
     color: rgba(255, 255, 255, 0.25);
     font-family: helvetica;
->>>>>>> parent of 6a7567c... link
     font-size: 1.3rem;
     line-height: 1.846;
     padding: 3.6rem 3rem 3.6rem 3.6rem;
@@ -1781,22 +1559,14 @@ button::-moz-focus-inner, input::-moz-focus-inner {
 }
 
 .header-nav h3 {
-<<<<<<< HEAD
-    font-family: "montserrat-semibold", sans-serif;
-=======
     font-family: helvetica;
->>>>>>> parent of 6a7567c... link
     font-size: 11px;
     line-height: 1.5;
     text-transform: uppercase;
     letter-spacing: .25rem;
     margin-bottom: 4.8rem;
     margin-top: .9rem;
-<<<<<<< HEAD
-    color: #39b54a;
-=======
     color: #FFA500;
->>>>>>> parent of 6a7567c... link
 }
 
 .header-nav p {
@@ -1811,11 +1581,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
 }
 
 .header-nav__list {
-<<<<<<< HEAD
-    font-family: "montserrat-regular", sans-serif;
-=======
     font-family: helvetica;
->>>>>>> parent of 6a7567c... link
     font-size: 1.8rem;
     margin: 3.6rem 0 3rem 0;
     padding: 0 0 1.8rem 0;
@@ -1934,20 +1700,12 @@ button::-moz-focus-inner, input::-moz-focus-inner {
     height: 42px;
     width: 42px;
     line-height: 42px;
-<<<<<<< HEAD
-    font-family: "montserrat-medium", sans-serif;
-    font-size: 1.3rem;
-    text-transform: uppercase;
-    letter-spacing: .3rem;
-    color: #39b54a;
-=======
     font-family: helvetica;
     font-weight: bolder;
     font-size: 1.3rem;
     text-transform: uppercase;
     letter-spacing: .3rem;
     color: #FFA500;
->>>>>>> parent of 6a7567c... link
     -webkit-transition: all 0.5s ease-in-out;
     transition: all 0.5s ease-in-out;
 }
@@ -2008,11 +1766,8 @@ button::-moz-focus-inner, input::-moz-focus-inner {
 }
 
 
-<<<<<<< HEAD
-=======
 
 
->>>>>>> parent of 6a7567c... link
 /* ------------------------------------------------------------------- 
  * responsive:
  * header
@@ -2024,10 +1779,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
     .header-logo {
         left: 30px;
     }
-<<<<<<< HEAD
-=======
 
->>>>>>> parent of 6a7567c... link
     .header-menu-toggle {
         right: 25px;
     }
@@ -2068,11 +1820,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
 }
 
 .s-home .overlay {
-<<<<<<< HEAD
-    position: absolute;
-=======
 
->>>>>>> parent of 6a7567c... link
     top: 0;
     left: 0;
     width: 100%;
@@ -2094,22 +1842,14 @@ button::-moz-focus-inner, input::-moz-focus-inner {
     width: 100%;
     height: 100%;
     vertical-align: middle;
-<<<<<<< HEAD
-    padding-bottom: 15.6rem;
-=======
 /* padding-bottom: 15.6rem;*/
->>>>>>> parent of 6a7567c... link
     position: relative;
     overflow: hidden;
 }
 
 .home-content h3 {
-<<<<<<< HEAD
-    font-family: "montserrat-medium", sans-serif;
-=======
     font-family: helvetica;
     font-weight: bolder;
->>>>>>> parent of 6a7567c... link
     font-size: 1.6rem;
     color: rgba(255, 255, 255, 0.5);
     text-transform: uppercase;
@@ -2121,34 +1861,21 @@ button::-moz-focus-inner, input::-moz-focus-inner {
 }
 
 .home-content h1 {
-<<<<<<< HEAD
-    font-family: "montserrat-medium", sans-serif;
-    font-size: 6.3rem;
-=======
     font-family: helvetica;
     font-weight: bold;
     font-size: 10rem;
->>>>>>> parent of 6a7567c... link
     line-height: 1.333;
     margin-top: 0;
     color: #FFFFFF;
 }
 
 .home-content__main {
-<<<<<<< HEAD
-    padding-top: 24rem;
-=======
     padding-top: 60rem;
->>>>>>> parent of 6a7567c... link
     position: relative;
 }
 
 .home-content__buttons {
-<<<<<<< HEAD
-    padding-top: 6rem;
-=======
     padding-top: .5rem;
->>>>>>> parent of 6a7567c... link
     text-align: left;
 }
 
@@ -2156,11 +1883,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
     width: 215px;
     border-color: #FFFFFF;
     color: #FFFFFF;
-<<<<<<< HEAD
-    margin: 1.5rem 1.5rem 0 0;
-=======
     margin: .5rem  0 0;
->>>>>>> parent of 6a7567c... link
     letter-spacing: .25rem;
     -webkit-transition: all 0.5s ease-in-out;
     transition: all 0.5s ease-in-out;
@@ -2183,11 +1906,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
 }
 
 .home-content__scroll a {
-<<<<<<< HEAD
-    font-family: "montserrat-semibold", sans-serif;
-=======
     font-family: helvetica;
->>>>>>> parent of 6a7567c... link
     font-size: 1rem;
     text-transform: uppercase;
     letter-spacing: .3rem;
@@ -2199,13 +1918,8 @@ button::-moz-focus-inner, input::-moz-focus-inner {
 }
 
 .home-content__scroll a::before {
-<<<<<<< HEAD
-    border-bottom: 2px solid #39b54a;
-    border-right: 2px solid #39b54a;
-=======
     border-bottom: 2px solid #FFA500;
     border-right: 2px solid #FFA500;
->>>>>>> parent of 6a7567c... link
     content: '';
     display: block;
     height: 8px;
@@ -2229,11 +1943,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
     display: block;
     width: 2px;
     height: 10.2rem;
-<<<<<<< HEAD
-    background-color: #39b54a;
-=======
     background-color: #FFA500;
->>>>>>> parent of 6a7567c... link
     position: absolute;
     right: 7.2rem;
     bottom: 0;
@@ -2244,21 +1954,12 @@ button::-moz-focus-inner, input::-moz-focus-inner {
  * ## home social 
  * ------------------------------------------------------------------- */
 .home-social {
-<<<<<<< HEAD
-    font-family: "montserrat-regular", sans-serif;
-    list-style: none;
-    margin: 0;
-    position: absolute;
-    top: 50%;
-    right: 5.4rem;
-=======
     font-family: helvetica;
     list-style: none;
     margin: 0;
     position: fixed;
     top: 50%;
     right: 3rem;
->>>>>>> parent of 6a7567c... link
     -webkit-transform: translate3d(0, -50%, 0);
     -ms-transform: translate3d(0, -50%, 0);
     transform: translate3d(0, -50%, 0);
@@ -2302,11 +2003,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
 }
 
 .home-social span {
-<<<<<<< HEAD
-    color: #39b54a;
-=======
     color: #FFA500;
->>>>>>> parent of 6a7567c... link
     right: 4.5rem;
     font-size: 1.3rem;
     opacity: 0;
@@ -2427,10 +2124,7 @@ html.no-csstransitions .home-content__main {
     .home-content h1 {
         font-size: 5.5rem;
     }
-<<<<<<< HEAD
-=======
 
->>>>>>> parent of 6a7567c... link
     .home-content__main {
         max-width: 800px;
     }
@@ -2454,14 +2148,9 @@ html.no-csstransitions .home-content__main {
     .home-content h3 {
         font-size: 1.5rem;
     }
-<<<<<<< HEAD
-    .home-content h1 {
-        font-size: 4rem;
-=======
 
     .home-content h1 {
         font-size: 10rem;
->>>>>>> parent of 6a7567c... link
     }
     .home-content__main {
         padding-right: 70px;
@@ -2474,11 +2163,7 @@ html.no-csstransitions .home-content__main {
         max-width: 490px;
     }
     .home-content__buttons {
-<<<<<<< HEAD
-        padding-top: 1.2rem;
-=======
         padding-top: 1rem;
->>>>>>> parent of 6a7567c... link
         text-align: center;
     }
     .home-content__buttons .btn {
@@ -2574,15 +2259,9 @@ html.no-csstransitions .home-content__main {
  *
  * ------------------------------------------------------------------- */
 .s-about {
-<<<<<<< HEAD
-    padding-top: 16.2rem;
-    padding-bottom: 9rem;
-    background-color: #39b54a;
-=======
     padding-top: 15rem;
     padding-bottom: 9rem;
     background-color: #FFA500;
->>>>>>> parent of 6a7567c... link
     color: #010507;
     position: relative;
 }
@@ -2591,8 +2270,6 @@ html.no-csstransitions .home-content__main {
     background-color: rgba(255, 255, 255, 0.25);
 }
 
-<<<<<<< HEAD
-=======
 
 .s-about2 {
     padding-top: 5rem;
@@ -2607,16 +2284,12 @@ html.no-csstransitions .home-content__main {
     position: relative;
 }
 
->>>>>>> parent of 6a7567c... link
 .about-desc {
     font-size: 2.4rem;
     line-height: 1.75;
     text-align: center;
     max-width: 1024px;
-<<<<<<< HEAD
-=======
     position: relative;
->>>>>>> parent of 6a7567c... link
 }
 
 
@@ -2641,11 +2314,7 @@ html.no-csstransitions .home-content__main {
 }
 
 .stats__count {
-<<<<<<< HEAD
-    font-family: "montserrat-bold", sans-serif;
-=======
     font-family: helvetica;
->>>>>>> parent of 6a7567c... link
     font-size: 8.4rem;
     line-height: 1;
     color: #FFFFFF;
@@ -2656,11 +2325,7 @@ html.no-csstransitions .home-content__main {
 }
 
 .stats h5 {
-<<<<<<< HEAD
-    font-family: "montserrat-semibold", sans-serif;
-=======
     font-family: helvetica;
->>>>>>> parent of 6a7567c... link
     margin-top: 1.8rem;
     color: #000000;
     font-size: 1.8rem;
@@ -2816,11 +2481,7 @@ html.no-csstransitions .home-content__main {
 
 .services-list .service-icon {
     float: left;
-<<<<<<< HEAD
-    color: #39b54a;
-=======
     color: #FFA500;
->>>>>>> parent of 6a7567c... link
     font-size: 4.8rem;
     margin-top: -.6rem;
 }
@@ -2915,11 +2576,7 @@ html.no-csstransitions .home-content__main {
 
 .s-works .intro-wrap {
     padding: 15rem 0 25.2rem;
-<<<<<<< HEAD
-    background: #111111;
-=======
     background: black;
->>>>>>> parent of 6a7567c... link
 }
 
 .works-content {
@@ -2979,11 +2636,7 @@ html.no-csstransitions .home-content__main {
 
 .item-folio__thumb a::after {
     content: "+";
-<<<<<<< HEAD
-    font-family: georgia, serif;
-=======
     font-family: helvetica;
->>>>>>> parent of 6a7567c... link
     font-size: 2.7rem;
     display: block;
     height: 30px;
@@ -3022,11 +2675,7 @@ html.no-csstransitions .home-content__main {
 }
 
 .item-folio__title {
-<<<<<<< HEAD
-    font-family: "montserrat-semibold", sans-serif;
-=======
     font-family: helvetica;
->>>>>>> parent of 6a7567c... link
     font-size: 1.4rem;
     line-height: 1.286;
     color: #FFFFFF;
@@ -3037,11 +2686,7 @@ html.no-csstransitions .home-content__main {
 
 .item-folio__cat {
     color: rgba(255, 255, 255, 0.5);
-<<<<<<< HEAD
-    font-family: "montserrat-light", sans-serif;
-=======
     font-family: helvetica;
->>>>>>> parent of 6a7567c... link
     font-size: 1.4rem;
     line-height: 1.714;
     margin-bottom: 0;
@@ -3198,12 +2843,6 @@ html.no-csstransitions .home-content__main {
 .clients-testimonials {
     margin-top: 4.2rem;
     padding-top: 7.2rem;
-<<<<<<< HEAD
-    text-align: center;
-    position: relative;
-}
-
-=======
     text-align: left;
     position: relative;
 }
@@ -3216,7 +2855,6 @@ html.no-csstransitions .home-content__main {
 }
 
 
->>>>>>> parent of 6a7567c... link
 .clients-testimonials::before {
     content: "";
     display: block;
@@ -3237,11 +2875,7 @@ html.no-csstransitions .home-content__main {
 }
 
 .clients-testimonials .testimonials p {
-<<<<<<< HEAD
-    font-family: "lora-regular", serif;
-=======
     font-family: helvetica;
->>>>>>> parent of 6a7567c... link
     font-size: 3rem;
     line-height: 1.8;
     color: #555555;
@@ -3262,30 +2896,18 @@ html.no-csstransitions .home-content__main {
 .clients-testimonials .testimonials__name, 
 .clients-testimonials .testimonials__pos {
     display: block;
-<<<<<<< HEAD
-}
-
-.clients-testimonials .testimonials__name {
-    font-family: "montserrat-semibold", sans-serif;
-=======
     text-align: center;
 }
 
 .clients-testimonials .testimonials__name {
     font-family: helvetica;
->>>>>>> parent of 6a7567c... link
     color: #000000;
 }
 
 .clients-testimonials .testimonials__pos {
-<<<<<<< HEAD
-    font-family: "montserrat-light", sans-serif;
-    font-size: 1.4rem;
-=======
     font-family: helvetica;
     font-size: 1.4rem;
     text-align: center;
->>>>>>> parent of 6a7567c... link
 }
 
 .clients-testimonials .testimonials .slick-arrow {
@@ -3427,11 +3049,7 @@ html.no-csstransitions .home-content__main {
 }
 
 .s-contact .form-field label {
-<<<<<<< HEAD
-    font-family: "montserrat-light", sans-serif;
-=======
     font-family: helvetica;
->>>>>>> parent of 6a7567c... link
     font-size: 1rem;
     line-height: 2.4rem;
     position: absolute;
@@ -3442,11 +3060,7 @@ html.no-csstransitions .home-content__main {
     padding: 0 2rem;
     margin: 0;
     color: #FFFFFF;
-<<<<<<< HEAD
-    background: #39b54a;
-=======
     background: #FFA500;
->>>>>>> parent of 6a7567c... link
 }
 
 .s-contact .form-field label::after {
@@ -3457,22 +3071,14 @@ html.no-csstransitions .home-content__main {
     margin-top: -6px;
     border-top: 5px solid transparent;
     border-bottom: 5px solid transparent;
-<<<<<<< HEAD
-    border-right: 5px solid #39b54a;
-=======
     border-right: 5px solid #FFA500;
->>>>>>> parent of 6a7567c... link
 }
 
 .contact__line {
     display: block;
     width: 2px;
     height: 20.4rem;
-<<<<<<< HEAD
-    background-color: #39b54a;
-=======
     background-color: #FFA500;
->>>>>>> parent of 6a7567c... link
     position: absolute;
     left: 50%;
     top: -10.2rem;
@@ -3485,11 +3091,7 @@ html.no-csstransitions .home-content__main {
     color: rgba(255, 255, 255, 0.4);
     padding-top: 6rem;
     padding-bottom: 6rem;
-<<<<<<< HEAD
-    font-family: "montserrat-light", sans-serif;
-=======
     font-family: helvetica;
->>>>>>> parent of 6a7567c... link
     font-size: 1.5rem;
     line-height: 2;
     position: relative;
@@ -3503,11 +3105,7 @@ html.no-csstransitions .home-content__main {
 
 .contact-content h5 {
     margin-top: 0;
-<<<<<<< HEAD
-    color: #39b54a;
-=======
     color: #FFA500;
->>>>>>> parent of 6a7567c... link
 }
 
 .contact-content input[type="email"],
@@ -3534,11 +3132,7 @@ html.no-csstransitions .home-content__main {
 .contact-content textarea:focus,
 .contact-content select:focus {
     color: #FFFFFF;
-<<<<<<< HEAD
-    border-bottom: 1px solid #39b54a;
-=======
     border-bottom: 1px solid #FFA500;
->>>>>>> parent of 6a7567c... link
 }
 
 .contact-content button,
@@ -3575,11 +3169,7 @@ html.no-csstransitions .home-content__main {
     color: #4f4f4f !important;
 }
 .contact-primary, .contact-secondary {
-<<<<<<< HEAD
-    float: left;
-=======
     float: center;
->>>>>>> parent of 6a7567c... link
     padding: 0 5rem;
 }
 
@@ -3592,16 +3182,10 @@ html.no-csstransitions .home-content__main {
 }
 
 .contact-secondary {
-<<<<<<< HEAD
-    width: 35%;
-}
-
-=======
     width: 50%;
 }
 
 /*
->>>>>>> parent of 6a7567c... link
 .contact-secondary::before {
     content: "";
     display: block;
@@ -3612,10 +3196,7 @@ html.no-csstransitions .home-content__main {
     right: 0;
     background-color: #121212;
 }
-<<<<<<< HEAD
-=======
 */
->>>>>>> parent of 6a7567c... link
 
 .contact-secondary .contact-info {
     position: relative;
@@ -3630,10 +3211,7 @@ html.no-csstransitions .home-content__main {
     display: inline-block;
     margin: 0;
     font-size: 2rem;
-<<<<<<< HEAD
-=======
     float: center;
->>>>>>> parent of 6a7567c... link
 }
 
 .contact-social li {
@@ -3648,11 +3226,7 @@ html.no-csstransitions .home-content__main {
 
 .contact-social li a:hover, 
 .contact-social li a:focus {
-<<<<<<< HEAD
-    color: #39b54a;
-=======
     color: #FFA500;
->>>>>>> parent of 6a7567c... link
 }
 
 .contact-social li:last-child {
@@ -3662,11 +3236,7 @@ html.no-csstransitions .home-content__main {
 .message-warning, 
 .message-success {
     display: none;
-<<<<<<< HEAD
-    background: #111111;
-=======
     background: black;
->>>>>>> parent of 6a7567c... link
     font-size: 1.5rem;
     line-height: 2;
     padding: 3rem;
@@ -3679,11 +3249,7 @@ html.no-csstransitions .home-content__main {
 }
 
 .message-success {
-<<<<<<< HEAD
-    color: #39b54a;
-=======
     color: #FFA500;
->>>>>>> parent of 6a7567c... link
 }
 
 .message-warning i, .message-success i {
@@ -3706,15 +3272,9 @@ html.no-csstransitions .home-content__main {
 
 .submit-loader .text-loader {
     display: none;
-<<<<<<< HEAD
-    font-family: "montserrat-regular", sans-serif;
-    font-size: 1.3rem;
-    font-weight: bold;
-=======
     font-family: helvetica;
     font-size: 1.3rem;
     font-weight: bolder;
->>>>>>> parent of 6a7567c... link
     line-height: 1.846;
     color: #FFFFFF;
     letter-spacing: .2rem;
@@ -3861,17 +3421,6 @@ html.no-csstransitions .home-content__main {
  * ------------------------------------------------------------------- */
 footer {
     padding: 9rem 0 6rem;
-<<<<<<< HEAD
-    font-family: "montserrat-light", sans-serif;
-    font-size: 15px;
-    line-height: 2;
-    text-align: center;
-    color: rgba(255, 255, 255, 0.3);
-}
-
-footer h4 {
-    color: #FFFFFF;
-=======
     font-family: helvetica;
     font-size: 15px;
     line-height: 2;
@@ -3881,7 +3430,6 @@ footer h4 {
 
 footer h4 {
     color: black;
->>>>>>> parent of 6a7567c... link
     font-size: 1.6rem;
     line-height: 1.313;
     margin-top: 0;
@@ -3893,11 +3441,7 @@ footer a {
 }
 
 footer a:hover, footer a:focus, footer a:active {
-<<<<<<< HEAD
-    color: #39b54a;
-=======
     color: #FFA500;
->>>>>>> parent of 6a7567c... link
 }
 
 footer .row {
@@ -3926,16 +3470,9 @@ footer .row {
     padding: 0;
     outline: 0;
     border: none;
-<<<<<<< HEAD
-    width: 85px;
-    height: 28px;
-    background: url("../images/logo-footer.png") no-repeat center;
-    background-size: 85px 28px;
-=======
     width: 120px;
     height: auto;
     background: url("../images/zoxvawhite.png") no-repeat center;
->>>>>>> parent of 6a7567c... link
     font: 0/0 a;
     text-shadow: none;
     color: transparent;
@@ -3995,24 +3532,14 @@ footer .row {
     top: 0;
     right: 0;
     color: #FFFFFF;
-<<<<<<< HEAD
-    background: #39b54a;
-    border-color: #39b54a;
-=======
     background: black;
     border-color: #FFA500;
->>>>>>> parent of 6a7567c... link
     padding: 0 20px;
 }
 
 .footer-subscribe #mc-form label {
-<<<<<<< HEAD
-    color: #FFFFFF;
-    font-family: "montserrat-regular", sans-serif;
-=======
     color: black;
     font-family: helvetica;
->>>>>>> parent of 6a7567c... link
     font-size: 1.3rem;
     padding: 0 2rem;
 }
