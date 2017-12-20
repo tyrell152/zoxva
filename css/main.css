@@ -78,7 +78,7 @@ body {
    font-family: helvetica;
     font-size: 1.7rem;
     font-style: normal;
-    font-weight: normal;
+    font-weight: bolder;
     line-height: 1.765;
     color: #757575;
     margin: 0;
@@ -121,7 +121,7 @@ h1, h2, h3, h4, h5, h6,
     font-weight: bolder;
     color: #000000;
     font-style: normal;
-    font-weight: normal;
+    font-weight: bolder;
     text-rendering: optimizeLegibility;
 }
 
@@ -195,7 +195,7 @@ p img {
 p.lead {
     font-family: helvetica;
     font-size: 2rem;
-    font-weight: 300;
+    font-weight: bolder;
     line-height: 1.8;
     margin-bottom: 3.6rem;
     color: #000000;
@@ -211,7 +211,7 @@ em, i, strong, b {
     font-size: inherit;
     line-height: inherit;
     font-style: normal;
-    font-weight: normal;
+    font-weight: bolder;
 }
 
 em, i {
@@ -748,7 +748,7 @@ select:focus {
 label, legend {
     font-family: helvetica;
     font-size: 1.4rem;
-    font-weight: bold;
+    font-weight: bolder;
     margin-bottom: .9rem;
     line-height: 1.714;
     color: #000000;
@@ -763,7 +763,7 @@ label > .label-text {
     display: inline-block;
     margin-left: 1rem;
     font-family: helvetica;
-    font-weight: normal;
+    font-weight: bolder;
     line-height: inherit;
 }
 
@@ -998,7 +998,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
     padding: 1.5rem .6rem 0 0;
     font-size: 8.4rem;
     font-family: helvetica;
-    font-weight: bold;
+    font-weight: bolder;
     line-height: 6rem;
     text-indent: 0;
     background: transparent;
@@ -1136,7 +1136,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
     display: inline-block;
     font-size: 2.5rem;
     font-family: helvetica;
-    font-weight: bold;
+    font-weight: bolder;
     border: none;
     color: #000000;
 }
@@ -1254,6 +1254,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
  * ## display headings
  * ------------------------------------------------------------------- */
 .display-1 {
+    font-weight: bold;
     font-family: helvetica;
     font-weight: bolder;
     font-size: 7.8rem;
@@ -1268,7 +1269,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
 
 .display-2 {
     font-family: helvetica;
-    font-weight: bolder;
+    font-weight: bold;
     font-size: 5.2rem;
     line-height: 1.255;
     color: #FFA500;
@@ -1306,39 +1307,48 @@ button::-moz-focus-inner, input::-moz-focus-inner {
 @media only screen and (max-width: 1200px) {
     .display-1 {
         font-size: 7.2rem;
+        font-weight: bold;
     }
     .display-2 {
         font-size: 4.4rem;
+        font-weight: bold;
     }
 }
 
 @media only screen and (max-width: 800px) {
     .display-1 {
         font-size: 6.5rem;
+        font-weight: bold;
     }
     .display-2 {
         font-size: 4rem;
+        font-weight: bold;
     }
 }
 
 @media only screen and (max-width: 600px) {
     .display-1 {
         font-size: 5rem;
+        font-weight: bold;
     }
     .display-2 {
         font-size: 3.3rem;
+        font-weight: bold;
     }
     .subhead {
         font-size: 1.5rem;
+        font-weight: bold;
     }
 }
 
 @media only screen and (max-width: 400px) {
     .display-1 {
         font-size: 4.2rem;
+        font-weight: bold;
     }
     .display-2 {
         font-size: 3rem;
+        font-weight: bold;
     }
 }
 
@@ -1852,8 +1862,8 @@ button::-moz-focus-inner, input::-moz-focus-inner {
 
 .home-content h1 {
     font-family: helvetica;
-    font-weight: bolder;
-    font-size: 6.3rem;
+    font-weight: bold;
+    font-size: 10rem;
     line-height: 1.333;
     margin-top: 0;
     color: #FFFFFF;
@@ -1947,9 +1957,9 @@ button::-moz-focus-inner, input::-moz-focus-inner {
     font-family: helvetica;
     list-style: none;
     margin: 0;
-    position: absolute;
+    position: fixed;
     top: 50%;
-    right: 5.4rem;
+    right: 3rem;
     -webkit-transform: translate3d(0, -50%, 0);
     -ms-transform: translate3d(0, -50%, 0);
     transform: translate3d(0, -50%, 0);
@@ -3264,7 +3274,7 @@ html.no-csstransitions .home-content__main {
     display: none;
     font-family: helvetica;
     font-size: 1.3rem;
-    font-weight: bold;
+    font-weight: bolder;
     line-height: 1.846;
     color: #FFFFFF;
     letter-spacing: .2rem;
