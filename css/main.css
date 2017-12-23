@@ -1,4 +1,4 @@
-/* =================================================================== 
+F/* =================================================================== 
  *
  *  Glint v1.0 Main Stylesheet
  *  11-20-2017
@@ -2259,8 +2259,8 @@ html.no-csstransitions .home-content__main {
  *
  * ------------------------------------------------------------------- */
 .s-about {
-    padding-top: 15rem;
-    padding-bottom: 9rem;
+    /* padding-top: 5rem; */
+    /* padding-bottom: 1rem; */
     background-color: #FFA500;
     color: #010507;
     position: relative;
@@ -2272,8 +2272,8 @@ html.no-csstransitions .home-content__main {
 
 
 .s-about2 {
-    padding-top: 5rem;
-    padding-bottom: 1rem;
+    /* padding-top: 5rem; */
+    /* padding-bottom: 1rem; */
     background-color: #111111;
     color: white;
     position: relative;
