@@ -983,7 +983,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
 }
 
 .alert-box--info {
-    background-color: #d7ecfb;
+    background-color: #ffa500;
     color: #4a95cc;
 }
 
