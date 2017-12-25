@@ -246,7 +246,7 @@ blockquote:before {
 }
 
 .logo{
-    content:url(https://tyrell152.github.io/zoxva/images/zoxva.png);
+    content:url(https://tyrell152.github.io/zoxva/images/zoxvawhite.png);
     left: 39px;
     top: 25px;
     width: 150px;
@@ -3099,7 +3099,7 @@ html.no-csstransitions .home-content__main {
     background-color: rgba(0, 0, 0, 0.2);
     color: rgba(255, 255, 255, 0.4);
     padding-top: 6rem;
-    padding-bottom: 6rem;
+    padding-bottom: 2rem;
     font-family: helvetica;
     font-size: 1.5rem;
     line-height: 2;
