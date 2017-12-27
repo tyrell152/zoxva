@@ -2601,6 +2601,7 @@ html.no-csstransitions .home-content__main {
     content: "";
     display: table;
     clear: both;
+    margin-top: 150px;
 }
 
 .masonry .grid-sizer, .masonry__brick {
