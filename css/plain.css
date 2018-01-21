@@ -32,6 +32,12 @@ img:hover{
 
 }
 
+a:hover{
+    color: #ffa500;
+    font-size: 30px;
+}
+
+
 
 
 
@@ -97,7 +103,7 @@ img:hover{
 
 @media screen and (min-width: 980px) {
     a {
-	color: #ffa500;
+	color: white;
 	font-size: 15px;
 	margin-bottom: 10px;
 	cursor: pointer;
@@ -108,7 +114,7 @@ img:hover{
 
 
 a{
-	color: #ffa500;
+	color: white;
 	font-size: 15px;
 	margin-bottom: 10px; 
 	cursor: pointer;
@@ -130,10 +136,9 @@ a{
 
 
 .list:hover {
-    background-color: rgba(255, 255, 255, 0.6);
-    padding: 10px;
-    left
+    font-size: 50px;
     cursor: pointer;
+    color: #ffa500;
 
 }
 
@@ -162,7 +167,9 @@ a{
 }
 
 
-
+.underline{
+    color: #ffa500;
+}
 
 .about{
 	color: white;
@@ -178,11 +185,11 @@ a{
 
 @media screen and (min-width: 980px) {
     .about {
- 		font-size: 10px;
+ 		font-size: 15px;
  		color: white;
 		font-family: helvetica;
 		text-align: right;
-	    margin-top: 8%;
+	    margin-top: 2%;
 	    position: relative;
 	    float: right;
 
@@ -214,8 +221,14 @@ a{
 
     }
 
+.maryland:{
+    cursor: url(file:///Users/tyrellwomack/Desktop/zoxva/emojis/Ravens-emoji.png);
+}
 
+.maryland:hover:before{
+    top: -30px;
 
+}
 
 
 
