@@ -116,19 +116,6 @@ a{
 }
 
 
-.portfolio{
-	color: white;
-	float: right;
-	font-family: helvetica;
-	text-align: right;
-    margin-right: 20px; 
-    margin-top: 50%;
-    position: relative;
-    font-size: 10px
-
-}
-
-
 .list:hover {
     background-color: rgba(255, 0, 0, 0.61);;
     padding: 10px;
@@ -144,12 +131,25 @@ a{
 		font-family: helvetica;
 		text-align: right;
 	    margin-right: 20px; 
-	    margin-top: 5%;
+	    margin-top: 20%;
 	    position: relative;
 	    float: right;
 
     }
 }
+
+.portfolio{
+	color: white;
+	float: right;
+	font-family: helvetica;
+	text-align: right;
+    margin-right: 20px; 
+    margin-top: 50%;
+    position: relative;
+    font-size: 10px
+
+}
+
 
 
 .info{
