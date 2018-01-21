@@ -172,7 +172,8 @@ a{
 	text-align: right;
     margin-top: 8%;
     position: relative;
-    font-size: 10px
+    font-size: 10px;
+    text-align:left;
 
 }
 
@@ -186,6 +187,7 @@ a{
 	    margin-top: 8%;
 	    position: relative;
 	    float: right;
+	    text-align:left;
 
     }
 }
