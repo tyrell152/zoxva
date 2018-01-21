@@ -196,8 +196,10 @@ a{
       animation: colorchange 5s; /* animation-name followed by duration in seconds*/
          /* you could also use milliseconds (ms) or something like 2.5s */
       -webkit-animation: colorchange 50s; /* Chrome and Safari */
-    }
+      margin: 0;
+	text-align: center;  }
 
+/*
     @keyframes colorchange
     {
       0%   {background: black;}
@@ -206,14 +208,13 @@ a{
       75%  {background: gray;}
       100% {background: black;}
     }
-
+*/
     @-webkit-keyframes colorchange /* Safari and Chrome - necessary duplicate */
     {
       0%   {background: black;}
       25%  {background: gray;}
-      50%  {background: black;}
-      75%  {background: gray;}
-      100% {background: black;}
+		
+
     }
 
 
