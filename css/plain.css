@@ -195,7 +195,7 @@ a{
          /* you could also use milliseconds (ms) or something like 2.5s */
       -webkit-animation: colorchange 50s; /* Chrome and Safari */
       margin: 0;
-	text-align: center;  }
+	text-align: left;  }
 
 
     @keyframes colorchange
