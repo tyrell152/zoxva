@@ -26,7 +26,6 @@ img:hover{
     height: auto;
     position: fixed;
     opacity: 0.05;
-    cursor: pointer;
     left: 0px;
     filter: alpha(opacity=50); /* For IE8 and earlier */
 
