@@ -118,7 +118,7 @@ a{
 
 
 .portfolio{
-	color: #4C4C4C;
+	color: white;
 	float: right;
 	font-family: helvetica;
 	text-align: right;
@@ -142,7 +142,7 @@ a{
 @media screen and (min-width: 980px) {
     .portfolio {
  		font-size: 20px;
- 		color: #4C4C4C;
+ 		color: white;
 		font-family: helvetica;
 		text-align: right;
 	    margin-right: 20px; 
