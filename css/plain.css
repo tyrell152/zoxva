@@ -21,9 +21,9 @@ img:hover{
 
 
 .back{
-	z-index: -10000;
     bottom:0%;
     width: 100%;
+    height: auto;
     position: fixed;
     opacity: 0.05;
     cursor: pointer;
@@ -34,7 +34,7 @@ img:hover{
 
 a:hover{
     color: #ffa500;
-    font-size: 30px;
+    font-size:20px;
 }
 
 
@@ -88,7 +88,9 @@ a:hover{
     }
 }
 
-
+h1{
+    margin-top: 30px;
+}
 
     .sing2 {
         color: white; 
@@ -104,7 +106,7 @@ a:hover{
 @media screen and (min-width: 980px) {
     a {
 	color: white;
-	font-size: 15px;
+	font-size: 20px;
 	margin-bottom: 10px;
 	cursor: pointer;
 
@@ -116,8 +118,9 @@ a:hover{
 a{
 	color: white;
 	font-size: 15px;
-	margin-bottom: 10px; 
+	margin-bottom: 15px; 
 	cursor: pointer;
+    margin-top: 10px;
 
 }
 
@@ -133,6 +136,7 @@ a{
     font-size: 10px
 
 }
+
 
 
 .list:hover {
@@ -221,14 +225,6 @@ a{
 
     }
 
-.maryland:{
-    cursor: url(file:///Users/tyrellwomack/Desktop/zoxva/emojis/Ravens-emoji.png);
-}
-
-.maryland:hover:before{
-    top: -30px;
-
-}
 
 
 
