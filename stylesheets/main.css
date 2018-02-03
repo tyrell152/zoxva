@@ -898,16 +898,17 @@ position: absolute;
                 -ms-transition: all .4s ease-in-out;
                  -o-transition: all .4s ease-in-out;
                     transition: all .4s ease-in-out;
-                    background-color: rgba(0, 0, 0, 0.80);
+                    
         }
-     /*   .works-item a:hover{
+        .works-item a:hover{
             opacity:1;
             -webkit-transition: all .4s ease-in-out;
                -moz-transition: all .4s ease-in-out;
                 -ms-transition: all .4s ease-in-out;
                  -o-transition: all .4s ease-in-out;
                     transition: all .4s ease-in-out;
-        }*/
+                    background-color: rgba(0, 0, 0, 0.80);
+        }
         .info a:hover{
             cursor: url("../images/plus.png") 40 40, crosshair;
             -webkit-transition: all .4s ease-in-out;
