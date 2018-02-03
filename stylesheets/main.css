@@ -1,31 +1,5 @@
 @charset "utf-8";
     
-/*MAIN.CSS*/
-/*-------------------------------------------------------------------------------------------------------------------------------*/
-/*This is main CSS file that contains custom style rules used in this template*/
-/*-------------------------------------------------------------------------------------------------------------------------------*/
-/* Template Name: Reflex.*/
-/* Version: 1.3 Updated Release*/
-/* For update log, please see: http://designova.net/changelog/reflex.pdf  */
-/* Build Date: 19 March 2015*/
-/* Author: Designova.*/
-/* Website: http://www.designova.net */
-/* Copyright: (C) 2015 */
-/*-------------------------------------------------------------------------------------------------------------------------------*/
-
-
-/*--------------------------------------------------------*/
-/* TABLE OF CONTENTS: */
-/*--------------------------------------------------------*/
-/* 01 - LAYOUT INITIALIZATION & COLOR PRESETS */
-/* 02 - HEADER, INTRO & NAVIGATION */
-/* 03 - COMMON ELEMENTS & TYPOGRAPHY */
-/* 04 - PAGES & SECTIONS SETUP*/
-/* 05 - FOOTER*/
-
-/*-------------------------------------------------------------------------------------------------------------------------------*/
-/* 01 - LAYOUT INITIALIZATION & COLOR PRESETS */
-/*-------------------------------------------------------------------------------------------------------------------------------*/
 html{
 }
 body{
@@ -926,14 +900,14 @@ position: absolute;
                     transition: all .4s ease-in-out;
                     background-color: rgba(0, 0, 0, 0.80);
         }
-        .works-item a:hover{
+     /*   .works-item a:hover{
             opacity:1;
             -webkit-transition: all .4s ease-in-out;
                -moz-transition: all .4s ease-in-out;
                 -ms-transition: all .4s ease-in-out;
                  -o-transition: all .4s ease-in-out;
                     transition: all .4s ease-in-out;
-        }
+        }*/
         .info a:hover{
             cursor: url("../images/plus.png") 40 40, crosshair;
             -webkit-transition: all .4s ease-in-out;
@@ -1371,5 +1345,7 @@ fieldset h1 {
 }
 .copyright-text{
     margin-top: 15px;
+    color: black;
+    font-family: helvetica;
     font-size: 12px;
 }
