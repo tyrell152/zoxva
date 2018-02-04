@@ -415,11 +415,27 @@ h1,h2,h3,h4,h5,h6{
     border:solid 1px black;
     background: transparent;
     color: black;
+
 }
 .btn-reflex-dark:hover{
     border:solid 1px black;
     background: black;
     color: #fff;
+}
+
+.btn-reflex-zoxva{
+    border:solid 1px black;
+    background: #ffa500;
+    color: #fff;
+    margin-top: 15px;
+}
+
+
+.btn-reflex-zoxva:hover{
+    border:solid 1px white;
+    background: transparent;
+    color: white;
+    margin-top: 15px;
 }
 
 .white{
