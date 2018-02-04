@@ -77,7 +77,7 @@ h1,h2,h3,h4,h5,h6{
 }
 .nav-bg{
     height: 100%;
-    background: url('https://raw.githubusercontent.com/tyrell152/zoxva/master/images/boy.jpg') no-repeat center center; 
+    background: url('http://placehold.it/1500x1000.jpg') no-repeat center center; 
     background-size: cover;
 }
 .main-nav-menu{
@@ -911,7 +911,7 @@ h3{
                 -ms-transition: all .4s ease-in-out;
                  -o-transition: all .4s ease-in-out;
                     transition: all .4s ease-in-out;
-                    background-color: rgba(255, 255, 255, 0.90;
+                    background-color: rgba(0, 0, 0, 0.8);
         }
         .info a:hover{
             cursor: url("../images/plus.png") 40 40, crosshair;
