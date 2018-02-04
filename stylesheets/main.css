@@ -899,6 +899,11 @@ position: absolute;
             -o-transition: all .4s ease-in-out;
             transition: all .4s ease-in-out;
 }
+
+h3{
+    font-family: helvetica;
+}
+
         .works-item a:hover{
             opacity:1;
             -webkit-transition: all .4s ease-in-out;
