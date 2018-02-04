@@ -931,11 +931,11 @@ h3{
         }
         .works-item-inner{
             text-align: center;
-            font-weight: bold;
         }
         .works-item-inner h3{ 
             font-size: 16px;
-            font-weight: 300;
+            font-weight: bold;
+            font-family: helvetica;
             letter-spacing: 4px;
             line-height: 23px;
             text-transform: uppercase;
