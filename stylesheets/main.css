@@ -934,7 +934,7 @@ h3{
         }
         .works-item-inner h3{ 
             font-size: 16px;
-            font-weight: bold;
+            font-weight: bolder;
             font-family: helvetica;
             letter-spacing: 4px;
             line-height: 23px;
