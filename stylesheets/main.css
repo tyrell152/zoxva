@@ -423,6 +423,20 @@ h1,h2,h3,h4,h5,h6{
     color: #fff;
 }
 
+.number{
+    font-family: helvetica;
+    font-size: 16px;
+    color: white;
+}
+
+.number:hover{
+    font-family: helvetica;
+    font-size: 16px;
+    color: white;
+    text-decoration: underline;
+    cursor: pointer;
+}
+
 .btn-reflex-zoxva{
     border:solid 1px black;
     background: #ffa500;
