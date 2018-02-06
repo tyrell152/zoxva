@@ -1122,7 +1122,8 @@ h3{
 
 /*SINGLE-PROJECT*/
 .single-project-content-inner{
-    padding: 80px 40px;
+    padding-left: 30px;
+    padding-right: 30px;
 }
 .single-project-slider-wrap{
     margin-bottom: 30px;
@@ -1133,6 +1134,12 @@ h3{
     top: 0;
     width:  92%;
     height: 100%;
+}
+
+.pageimg{
+    width: 92%;
+    padding-left: 30px;
+    padding-right: 30px;
 }
 
 .zoom-icon-wrap{
