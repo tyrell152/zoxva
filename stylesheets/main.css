@@ -407,6 +407,10 @@ h1,h2,h3,h4,h5,h6{
     font-weight: 200;
 }
 
+.zoxva-bg{
+    background-color: #ffa500
+}
+
 .black-bg{
     background-color: black;
 }
