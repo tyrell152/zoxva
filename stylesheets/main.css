@@ -293,7 +293,9 @@ h1,h2,h3,h4,h5,h6{
 }
 
 .inner-pad2{
-    padding: 50px;
+    padding-top: 30%;
+    padding-bottom: 0px;
+    height: 100%;
 }
 
 .hero-heading{
@@ -427,6 +429,10 @@ h1,h2,h3,h4,h5,h6{
     color: #fff;
 }
 
+.pace{
+    height: 100% !important;
+}
+
 .number{
     font-family: helvetica;
     font-size: 16px;
@@ -437,6 +443,21 @@ h1,h2,h3,h4,h5,h6{
     font-family: helvetica;
     font-size: 16px;
     color: white;
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+
+.number2{
+    font-family: helvetica;
+    font-size: 16px;
+    color: black;
+}
+
+.number2:hover{
+    font-family: helvetica;
+    font-size: 16px;
+    color: black;
     text-decoration: underline;
     cursor: pointer;
 }
@@ -455,6 +476,26 @@ h1,h2,h3,h4,h5,h6{
     color: white;
     margin-top: 15px;
 }
+
+
+
+.btn-reflex-zoxva2{
+    border:solid 1px black;
+    background: #ffa500;
+    color: #fff;
+    margin-top: 15px;
+}
+
+
+.btn-reflex-zoxva2:hover{
+    border:solid 1px black;
+    background: black;
+    color: white;
+    margin-top: 15px;
+}
+
+
+
 
 .white{
     color: white;
@@ -1163,7 +1204,23 @@ h3{
 }
 
 .contact{
+    margin-top: 20%;
 }
+
+@media only screen (max-width: 500px) {
+    .contact {
+        margin-top: 100px;
+    }
+}
+
+
+@media only screen (min-width: 500px) {
+}
+  .contact{
+    margin-top:30%;
+  }
+}
+
 .contact-form{
     display: none;
 }
