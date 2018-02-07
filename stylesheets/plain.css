@@ -1,0 +1,231 @@
+
+
+@media screen and (min-width: 980px) {
+    .img {
+        width: 120px;
+    	margin-bottom: 8px;
+    }
+}
+
+
+img{
+	width: 85px;
+	cursor: pointer;
+	cursor: pointer;
+}
+
+
+img:hover{
+	content: url(https://tyrell152.github.io/zoxva/images/zoxvawhite.png);
+}
+
+
+.back{
+    bottom:0%;
+    width: 100%;
+    height: auto;
+    position: fixed;
+    opacity: 0.05;
+    left: 0px;
+    filter: alpha(opacity=50); /* For IE8 and earlier */
+
+}
+
+a:hover{
+    color: #ffa500;
+    font-size:20px;
+}
+
+
+
+
+
+@media screen and (min-width: 980px) {
+    .headline {
+        float: left;  
+        margin-left: 20px; 
+        margin-top: 20px;
+        position: relative;
+    }
+}
+
+    .headline {
+        float: left;  
+        margin-left: 20px; 
+        color: white;
+        font-size: 150px;
+        font-family: helvetica;
+        margin-top: 20px;
+        position: relative;
+    }
+
+
+@media screen and (min-width: 980px) {
+    .sing1 {
+        color: white; 
+        font-family: helvetica; 
+        font-weight: bolder; 
+        font-size: 25px;
+    }
+}
+
+    .sing1 {
+        color: white; 
+        font-family: helvetica; 
+        font-weight: bolder; 
+        font-size: 20px;
+    }
+
+
+
+@media screen and (min-width: 980px) {
+    .sing2 {
+        color: white; 
+        font-family: helvetica; 
+        font-weight: lighter; 
+        font-size: 30px;
+    }
+}
+
+h1{
+    margin-top: 30px;
+}
+
+    .sing2 {
+        color: white; 
+        font-family: helvetica; 
+        font-weight: lighter; 
+        font-size: 20px;
+    }
+
+
+
+
+
+@media screen and (min-width: 980px) {
+    a {
+	color: white;
+	font-size: 20px;
+	margin-bottom: 10px;
+	cursor: pointer;
+
+    }
+}
+
+
+
+a{
+	color: white;
+	font-size: 15px;
+	margin-bottom: 15px; 
+	cursor: pointer;
+    margin-top: 10px;
+
+}
+
+
+.portfolio{
+	color: white;
+	float: right;
+	font-family: helvetica;
+	text-align: right;
+    margin-right: 20px; 
+    margin-top: 10%;
+    position: relative;
+    font-size: 10px
+
+}
+
+
+
+.list:hover {
+    font-size: 50px;
+    cursor: pointer;
+    color: #ffa500;
+
+}
+
+
+@media screen and (min-width: 980px) {
+    .portfolio {
+ 		font-size: 20px;
+ 		color: white;
+		font-family: helvetica;
+		text-align: right;
+	    margin-right: 20px; 
+	    margin-top: 20%;
+	    position: relative;
+	    float: right;
+
+    }
+}
+
+
+.info{
+	float: left;
+	margin-top: 100%;
+	margin-right: 90%;
+	position: relative;
+
+}
+
+
+.underline{
+    color: #ffa500;
+}
+
+.about{
+	color: white;
+	float: right;
+	font-family: helvetica;
+	text-align: right;
+    margin-top: 8%;
+    position: relative;
+    font-size: 10px;
+
+}
+
+
+@media screen and (min-width: 980px) {
+    .about {
+ 		font-size: 15px;
+ 		color: white;
+		font-family: helvetica;
+		text-align: right;
+	    margin-top: 2%;
+	    position: relative;
+	    float: right;
+
+    }
+}
+
+    body {
+      animation: colorchange 5s; /* animation-name followed by duration in seconds*/
+         /* you could also use milliseconds (ms) or something like 2.5s */
+      -webkit-animation: colorchange 50s; /* Chrome and Safari */
+      margin: 0;
+	text-align: left;  }
+
+
+    @keyframes colorchange
+    {
+      0%   {background: black;}
+      25%  {background: gray;}
+      50%  {background: black;}
+      75%  {background: gray;}
+      100% {background: black;}
+    }
+
+    @-webkit-keyframes colorchange /* Safari and Chrome - necessary duplicate */
+    {
+      0%   {background: black;}
+      25%  {background: gray;}
+      50%  {background: black;}
+      75%  {background: gray;}
+      100% {background: black;}
+    }
+
+
+
+
+

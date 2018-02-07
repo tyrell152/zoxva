@@ -1069,7 +1069,12 @@ h3{
     border-bottom:none;
 }
 
-
+.about{
+    font-family: helvetica; 
+    font-weight: bold; 
+    color: black; 
+    margin-bottom: 50px;"
+}
 
 /*AWARDS*/
 .awards-container{
