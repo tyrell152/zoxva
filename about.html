@@ -282,12 +282,23 @@
                           
 
                            
-                          <script type="text/javascript">
-                              document.write ('<p>Current time is: <span id="date-time">', new Date().toLocaleString(), '<\/span><\/p>')
-                              if (document.getElementById) onload = function () {
-                                setInterval ("document.getElementById ('date-time').firstChild.data = new Date().toLocaleString()", 50)
-                              }
-                        </script>
+<script type="text/javascript">
+      document.write ('<p>Current time is: <span id="date-time">', new Date().toLocaleString(), '<\/span>.<\/p>')
+      if (document.getElementById) onload = function () {
+        setInterval ("document.getElementById ('date-time').firstChild.data = new Date().toLocaleString()", 50)
+      }
+</script>
+
+                        <style type="text/css" media="screen">
+                          p{
+                            font-family: helvetica; 
+                            font-weight: bold; 
+                            color: black; 
+                            margin-bottom: 15px; 
+                            margin-top: 20px;
+                            font-size: 15px;
+                          }
+                        </style>
 
   </center>
 
