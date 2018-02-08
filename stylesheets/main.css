@@ -557,6 +557,15 @@ h1,h2,h3,h4,h5,h6{
     background-size: cover;
 }
 
+.features{
+    color: black;
+    font-family: helvetica;
+}
+
+.features:hover{
+    color: #ffa500;
+    font-family: helvetica;
+}
 
 /*------------------------------------------------------------------*/
 /* 04 - MAIN PAGES & SECTIONS */
