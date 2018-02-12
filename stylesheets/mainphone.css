@@ -225,8 +225,8 @@
 		}
 
 img{
-	width: 250px;
-	margin-top: 1.4%;
+	width: 150px;
+	margin-top: 5%;
 }
 
 .subscribe{
@@ -441,7 +441,7 @@ img{
 /* Form */
 
 	form {
-		margin: 0 0 0em 0;
+		margin: 0 0 2em 0;
 	}
 
 	label {
@@ -1558,7 +1558,7 @@ img{
     display:block; 
     position:relative; 
     text-align:left; 
-    padding:10px 0 10px 0%}
+    padding:10px 0 10px 0}
 
 #mc_embed_signup h2 {
     font-weight:bold; 
