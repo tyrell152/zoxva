@@ -351,9 +351,9 @@ h1,h2,h3,h4,h5,h6{
     margin-top: 30px;
     font-family: helvetica;
     font-size: 12px;
-    font-weight: 700;
-    line-height: 22px;
-    letter-spacing: 8px;
+    font-weight: 400;
+    line-height: 30px;
+    letter-spacing: 2px;
     text-transform: uppercase;
 }
 
@@ -434,6 +434,20 @@ h1,h2,h3,h4,h5,h6{
 
 .pace{
     height: 100% !important;
+}
+
+.pp{
+    font-family: helvetica;
+    font-size: 16px;
+    color: black;   
+}
+
+.pp:hover{
+    font-family: helvetica;
+    font-size: 16px;
+    color: black;
+    text-decoration: underline;
+    cursor: pointer;
 }
 
 .number{
