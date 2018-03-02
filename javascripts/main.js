@@ -47,10 +47,11 @@ $(function ($) {
     //Mobile Menu (multi level)
     $('ul.slimmenu').slimmenu({
         resizeWidth: '1200',
-        collapserTitle: 'menu',
+        collapserTitle: 'zoxva',
         easingEffect:'easeInOutQuint',
         animSpeed:'medium',
     });
+
 
 
 
@@ -62,7 +63,7 @@ $(function ($) {
                   modpath: './twitter/',
                   count: 1,
                   loading_text: 'loading twitter update...',
-                  username:'designovastudio'
+                  username:'_zoxva'
                   /* etc... */
               });
     }); 
