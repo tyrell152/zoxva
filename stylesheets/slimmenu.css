@@ -67,8 +67,8 @@ ul.slimmenu {
     margin: 0;
     padding: 0;
     width: 100%;
-    content: url(https://zoxva.com/images/zoxvawhite.png);
 }
+
 ul.slimmenu li {
     position: relative;
     display: inline-block;
