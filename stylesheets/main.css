@@ -1148,6 +1148,8 @@ h3{
     color: black; 
     margin-bottom: 50px;
     font-size: 18px;
+    font-weight: 50;
+    line-height: 1.5;
 }
 
 /*AWARDS*/
