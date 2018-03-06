@@ -43,14 +43,15 @@ $(function ($) {
         $(this).find('.sub-nav').slideDown('slow');
     })
 
-
     //Mobile Menu (multi level)
     $('ul.slimmenu').slimmenu({
         resizeWidth: '1200',
-        collapserTitle: 'zoxva',
+        collapserTitle: 'Zoxva',
         easingEffect:'easeInOutQuint',
         animSpeed:'medium',
     });
+
+   
 
 
 
