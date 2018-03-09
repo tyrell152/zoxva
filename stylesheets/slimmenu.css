@@ -8,7 +8,7 @@
     -webkit-box-sizing: border-box
 }
 .menu-collapser {
-    position: relative;
+    position: absolute;
     background-color: black;
     color: #FFF;
     width: 100%;
