@@ -11,6 +11,7 @@ body{
     color: #ffa500;
     font-family: helvetica;
     font-size: 16px;
+    cursor: pointer;
 }
 
 .email:hover{
@@ -18,6 +19,7 @@ body{
     font-family: helvetica;
     font-size: 16px;
     text-decoration: underline;
+    cursor: pointer;
 }
 
 a {
