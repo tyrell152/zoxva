@@ -47,6 +47,25 @@ visible-lg{
     padding-top: 10px !important;
 }
 
+.emailcontact{
+    color: #ffa500;
+    font-family: helvetica;
+    font-size: 16px;
+    cursor: pointer;
+    width: 300px;
+    padding-top: 10px !important;
+}
+
+.emailcontact:hover{
+    color: white;
+    font-family: helvetica;
+    font-size: 16px;
+    text-decoration: underline;
+    cursor: pointer;
+    width: 300px;
+    padding-top: 10px !important;
+}
+
 a {
     line-height: 1.5;
 }
@@ -205,8 +224,8 @@ h1,h2,h3,h4,h5,h6{
     margin: 0 2px;
 }
 .social-wrap li a > img{
-    width: 24px;
-    opacity: 0.2;
+    width: 30px;
+    opacity: 1;
     -webkit-transition: all .4s ease-in-out;
        -moz-transition: all .4s ease-in-out;
         -ms-transition: all .4s ease-in-out;
