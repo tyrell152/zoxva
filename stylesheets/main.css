@@ -57,7 +57,7 @@ visible-lg{
 }
 
 .emailcontact:hover{
-    color: black;
+    color: black !important;
     font-family: helvetica;
     font-size: 16px;
     text-decoration: underline;
