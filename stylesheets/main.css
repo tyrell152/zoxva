@@ -50,6 +50,7 @@ visible-lg{
 .emailcontact{
     font-family: helvetica;
     font-size: 16px;
+    margin-top: 10px;
     text-decoration: underline;
     color: #0000009e;
 }
@@ -57,6 +58,7 @@ visible-lg{
 .emailcontact:hover{
     font-family: helvetica;
     font-size: 16px;
+    margin-top: 10px;
     color: black;
     cursor: pointer;
 }
