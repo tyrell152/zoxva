@@ -51,7 +51,7 @@ visible-lg{
     font-family: helvetica;
     font-size: 16px;
     text-decoration: underline;
-    color: black;
+    color: #0000009e;
 }
 
 .emailcontact:hover{
@@ -529,7 +529,7 @@ h1,h2,h3,h4,h5,h6{
     font-family: helvetica;
     font-size: 16px;
     text-decoration: underline;
-    color: black;
+    color: #0000009e;
 }
 
 .number2:hover{
