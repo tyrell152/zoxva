@@ -48,23 +48,19 @@ visible-lg{
 }
 
 .emailcontact{
-    color: black;
     font-family: helvetica;
     font-size: 16px;
-    cursor: pointer;
     text-decoration: underline;
-    width: 300px;
-    padding-top: 10px !important;
+    color: black;
 }
 
 .emailcontact:hover{
-    color: black !important;
     font-family: helvetica;
     font-size: 16px;
+    color: black;
     cursor: pointer;
-    width: 300px;
-    padding-top: 10px !important;
 }
+
 
 a {
     line-height: 1.5;
