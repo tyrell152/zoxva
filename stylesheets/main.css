@@ -31,7 +31,7 @@ visible-lg{
 .email{
     color: #ffa500;
     font-family: helvetica;
-    font-size: 16px;
+    font-size: 20px;
     cursor: pointer;
     width: 300px;
     padding-top: 10px !important;
@@ -40,7 +40,7 @@ visible-lg{
 .email:hover{
     color: white;
     font-family: helvetica;
-    font-size: 16px;
+    font-size: 20px;
     text-decoration: underline;
     cursor: pointer;
     width: 300px;
@@ -49,7 +49,7 @@ visible-lg{
 
 .emailcontact{
     font-family: helvetica;
-    font-size: 16px;
+    font-size: 20px;
     margin-top: 10px;
     text-decoration: underline;
     color: #0000009e;
@@ -57,7 +57,7 @@ visible-lg{
 
 .emailcontact:hover{
     font-family: helvetica;
-    font-size: 16px;
+    font-size: 20px;
     margin-top: 10px;
     color: black;
     cursor: pointer;
@@ -514,13 +514,13 @@ h1,h2,h3,h4,h5,h6{
 
 .number{
     font-family: helvetica;
-    font-size: 16px;
+    font-size: 20px;
     color: white;
 }
 
 .number:hover{
     font-family: helvetica;
-    font-size: 16px;
+    font-size: 20px;
     color: white;
     text-decoration: underline;
     cursor: pointer;
@@ -529,14 +529,14 @@ h1,h2,h3,h4,h5,h6{
 
 .number2{
     font-family: helvetica;
-    font-size: 16px;
+    font-size: 20px;
     text-decoration: underline;
     color: #0000009e;
 }
 
 .number2:hover{
     font-family: helvetica;
-    font-size: 16px;
+    font-size: 20px;
     color: black;
     cursor: pointer;
 }
