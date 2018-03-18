@@ -507,6 +507,10 @@ u {
     height: 100% !important;
 }
 
+.post{
+    height: 100% !important;
+}
+
 .pp{
     font-family: helvetica;
     font-size: 16px;
