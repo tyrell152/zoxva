@@ -503,6 +503,13 @@ u {
     height: 100% !important;
 }
 
+.pace-done{
+    height: 100% !important;
+}
+
+.post {
+    height: 100% !important;
+}
 
 .pp{
     font-family: helvetica;
