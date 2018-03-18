@@ -50,43 +50,43 @@
     top: 12px;
 }
 #toggle-menu.toggle-menu-visible span.top {
-    -webkit-animation: inTop 0.8s forwards;
-    -moz-animation: inTop 0.8s forwards;
-    animation: inTop 0.8s forwards;
+    -webkit-animation: inTop 0.8s forwards !important;
+    -moz-animation: inTop 0.8s forwards !important;
+    animation: inTop 0.8s forwards !important;
 }
 #toggle-menu.toggle-menu-visible span.middle {
-    -webkit-animation: inMiddle 0.8s forwards;
-    -moz-animation: inMiddle 0.8s forwards;
-    animation: inMiddle 0.8s forwards;
+    -webkit-animation: inMiddle 0.8s forwards !important;
+    -moz-animation: inMiddle 0.8s forwards !important;
+    animation: inMiddle 0.8s forwards !important;
 }
 #toggle-menu.toggle-menu-visible span.bottom {
-    -webkit-animation: inBottom 0.8s forwards;
-    -moz-animation: inBottom 0.8s forwards;
-    animation: inBottom 0.8s forwards;
+    -webkit-animation: inBottom 0.8s forwards !important;
+    -moz-animation: inBottom 0.8s forwards !important;
+    animation: inBottom 0.8s forwards !important;
 }   
 #toggle-menu.toggle-menu-hidden span.top {
-    -webkit-animation: outTop 0.8s backwards;
-    -webkit-animation-direction: reverse;
-    -moz-animation: outTop 0.8s backwards;
-    -moz-animation-direction: reverse;
-    animation: outTop 0.8s backwards;
-    animation-direction: reverse;
+    -webkit-animation: outTop 0.8s backwards !important;
+    -webkit-animation-direction: reverse !important;
+    -moz-animation: outTop 0.8s backwards !important;
+    -moz-animation-direction: reverse !important;
+    animation: outTop 0.8s backwards !important;
+    animation-direction: reverse !important;
 }
 #toggle-menu.toggle-menu-hidden span.middle {
-    -webkit-animation: outMiddle 0.8s backwards;
-    -webkit-animation-direction: reverse;
-    -moz-animation: outMiddle 0.8s backwards;
-    -moz-animation-direction: reverse;
-    animation: outMiddle 0.8s backwards;
-    animation-direction: reverse;
+    -webkit-animation: outMiddle 0.8s backwards !important;
+    -webkit-animation-direction: reverse !important;
+    -moz-animation: outMiddle 0.8s backwards !important;
+    -moz-animation-direction: reverse !important;
+    animation: outMiddle 0.8s backwards !important;
+    animation-direction: reverse !important;
 }
 #toggle-menu.toggle-menu-hidden span.bottom {
-    -webkit-animation: outBottom 0.8s backwards;
-    -webkit-animation-direction: reverse;
-    -moz-animation: outBottom 0.8s backwards;
-    -moz-animation-direction: reverse;
-    animation: outBottom 0.8s backwards;
-    animation-direction: reverse;
+    -webkit-animation: outBottom 0.8s backwards !important;
+    -webkit-animation-direction: reverse !important;
+    -moz-animation: outBottom 0.8s backwards !important;
+    -moz-animation-direction: reverse !important;
+    animation: outBottom 0.8s backwards !important;
+    animation-direction: reverse !important;
 }   
 
 @-webkit-keyframes inMiddle {
