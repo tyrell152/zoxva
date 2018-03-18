@@ -7,9 +7,9 @@ body{
 }
 /* ------- overlay: change here background color and opacity ----- */
 .vbox-overlay{
-    background: rgba(0,0,0,0.85); 
-    width: 100%;
-    height: auto;
+    background: rgba(0,0,0,0.91) !important; 
+    width: 100% !important;
+    height: 100% !important;
     position: absolute;
     top: 0;
     left: 0;
@@ -297,6 +297,8 @@ body{
     }
 }
 
+
+
 /* ------- PLease do NOT edit this! (or do it at your own risk) ------ */
 .vbox-container{
     position: relative;
@@ -315,6 +317,7 @@ body{
 .vbox-container img{
     max-width: 75%;
     height: auto;
+    background-color: rgba(255, 255, 255, 0) !important;
 }
 .vwrap{
     opacity: 1;
