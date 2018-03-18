@@ -499,6 +499,10 @@ u {
     color: #fff;
 }
 
+.pace{
+    height: 100% !important;
+}
+
 
 .pp{
     font-family: helvetica;
