@@ -52,7 +52,7 @@ visible-lg{
     font-size: 20px;
     margin-top: 10px;
     text-decoration: underline;
-    color: #0000009e;
+    color: #ffa500;
 }
 
 .emailcontact:hover{
@@ -537,7 +537,7 @@ u {
     font-family: helvetica;
     font-size: 20px;
     text-decoration: underline;
-    color: #0000009e;
+    color: #ffa500;
 }
 
 .number2:hover{
