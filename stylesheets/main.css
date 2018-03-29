@@ -118,6 +118,15 @@ u {
         padding-left: 0;
         padding-right: 0;
 }
+
+.container2{
+        width: 100%;
+        margin-right: 0px;
+        padding-left: 0px;
+        padding-right: 0px;
+        background-color: black;
+}
+
 .no-parallax{
     background-attachment: scroll !important;
 }
@@ -367,6 +376,11 @@ u {
     padding-bottom: 0px;
     height: 100%;
 }
+
+.inner-pad3{
+    padding: 50px;
+}
+
 
 .hero-heading{
     font-size: 124px;
