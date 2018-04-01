@@ -29,6 +29,25 @@ visible-lg{
 .play{
     font-family: ionicons;
     content: "\f487";
+    font-size: 100px;
+    color: black;
+}
+
+.border{
+        border: solid 1px black;
+        padding-left: 10px;
+}
+
+.playbutton{
+    width: 100px;
+    margin-top: 20px;
+    cursor: pointer;
+}
+
+.playbutton:hover{
+    width: 100px;
+    margin-top: 20px;
+    cursor: pointer;
 }
 
 
