@@ -277,7 +277,7 @@ u {
     margin-top: 10px;
     font-size: 12px;
     line-height: 19px;
-    font-weight: lighter !important;
+    font-weight: lighter !important`;
 }
 .info-button{
     position: fixed;
@@ -1242,7 +1242,7 @@ h3{
 
 .about{
     font-family: helvetica; 
-    font-weight: bold; 
+    font-weight: lighter; 
     color: black; 
     margin-bottom: 50px;"
 }
