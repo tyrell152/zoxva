@@ -4,9 +4,10 @@
 .toggle-menu-wrap{
 	position: absolute;
 	bottom: 1px;
-	left: 0;
+	right: 0;
 	padding: 15px;
 	z-index: 999;
+	margin-right: 30px
 }
 /*Toggle Menu*/
 #toggle-menu {

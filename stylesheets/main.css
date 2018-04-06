@@ -18,6 +18,18 @@ main-nav{
     position: relative;
 }
 
+.menu-title{
+    color: black; 
+    float: right; 
+    font-family: helvetica; 
+    margin-right: 5px; 
+    font-weight: bold; 
+    margin-left: 35px;
+    margin-top: -18px; 
+    font-size: 22px;
+}
+
+
 visible-lg{
     font-family: 'Open Sans', sans-serif; 
     font-weight:300;
