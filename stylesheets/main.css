@@ -29,6 +29,19 @@ main-nav{
     font-size: 22px;
 }
 
+.languages{
+    font-family: helvetica; 
+    font-size: 30px; 
+    margin: 40px; 
+    font-weight: bold; 
+    color: black;
+}
+
+
+.languages:hover{
+    color: #ffa500;
+}
+
 
 visible-lg{
     font-family: 'Open Sans', sans-serif; 
