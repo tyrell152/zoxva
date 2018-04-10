@@ -43,6 +43,13 @@ main-nav{
 }
 
 
+.front{
+    opacity: .15;
+    width: 100%;
+    bottom: 0px;
+    position: fixed;
+}
+
 visible-lg{
     font-family: 'Open Sans', sans-serif; 
     font-weight:300;
