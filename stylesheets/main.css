@@ -30,16 +30,16 @@ main-nav{
 }
 
 .languages{
-    font-family: helvetica; 
-    font-size: 30px; 
-    margin: 40px; 
-    font-weight: bold; 
-    color: black;
+    font-family: helvetica !important; 
+    font-size: 30px !important; 
+    margin: 40px !important; 
+    font-weight: bold !important; 
+    color: black !important;
 }
 
 
 .languages:hover{
-    color: #ffa500;
+    color: #ffa500 !important;
 }
 
 
