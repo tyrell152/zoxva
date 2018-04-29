@@ -281,20 +281,20 @@ body{
     }
 }
 @media (max-width: 767px) {
-    .venoframe{
+   /* .venoframe{
         width: 420px;
         height: 315px;
-    }
+    }*/
 }
 @media (max-width: 460px) {
     .vbox-inline{
         width: 100%;
     }
 
-    .venoframe{
+    /*.venoframe{
         width: 100%;
         height: 260px;
-    }
+    }*/
 }
 
 
