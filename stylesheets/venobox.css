@@ -297,8 +297,6 @@ body{
     }*/
 }
 
-
-
 /* ------- PLease do NOT edit this! (or do it at your own risk) ------ */
 .vbox-container{
     position: relative;
@@ -315,7 +313,7 @@ body{
     overflow: hidden;
 }
 .vbox-container img{
-    max-width: 70%;
+    max-width: 70% !important;
     height: auto;
     background-color: rgba(255, 255, 255, 0) !important;
 }
