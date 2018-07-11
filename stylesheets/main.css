@@ -48,8 +48,8 @@ main-nav{
 
 
 .front{
-    opacity: .15 !important;
-    width: 100% !important;
+    opacity: .50 !important;
+    width: 10% !important;
     bottom: 0px !important;
     position: fixed !important;
 }
