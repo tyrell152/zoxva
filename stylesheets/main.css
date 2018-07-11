@@ -55,7 +55,7 @@ main-nav{
 }
 
 
-body {
+.background {
   animation: 10000ms ease-in-out infinite color-change;
 }
 
