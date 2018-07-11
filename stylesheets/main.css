@@ -32,7 +32,7 @@ main-nav{
 .languages{
     font-family: helvetica !important; 
     font-size: 30px !important; 
-    margin: 40px !important; 
+    margin: 20px !important; 
     font-weight: bold !important; 
     color: black !important;
 }
@@ -42,6 +42,10 @@ main-nav{
     color: #ffa500 !important;
 }
 
+.title {
+    color: #ffa500 !important;   
+}
+
 
 .front{
     opacity: .15 !important;
@@ -49,6 +53,30 @@ main-nav{
     bottom: 0px !important;
     position: fixed !important;
 }
+
+
+body {
+  animation: 10000ms ease-in-out infinite color-change;
+}
+
+@keyframes color-change {
+  0% {
+    background-color: gray;
+  }
+  20% {
+    background-color: gold;
+  }
+  60% {
+    background-color: silver;
+  }
+  80% {
+    background-color: white;
+  }
+  100% {
+    background-color: teal;
+  }
+}
+
 
 visible-lg{
     font-family: 'Open Sans', sans-serif; 
