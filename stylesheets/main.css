@@ -54,6 +54,13 @@ main-nav{
     position: fixed !important;
 }
 
+.topcolors{
+    width: 100% !important;
+    top: 0px !important;
+    float: top;
+    position: fixed !important;
+}
+
 
 .background {
   animation: 10000ms ease-in-out infinite color-change;
