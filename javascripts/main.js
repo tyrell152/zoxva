@@ -46,7 +46,7 @@ $(function ($) {
     //Mobile Menu (multi level)
     $('ul.slimmenu').slimmenu({
         resizeWidth: '1200',
-        collapserTitle: 'Zoxva',
+        collapserTitle: '',
         easingEffect:'easeInOutQuint',
         animSpeed:'medium',
     });
