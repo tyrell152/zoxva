@@ -7,7 +7,7 @@
 }
 
 body {
-	font-family: 'Raleway', sans-serif;
+	font-family: 'helvetica', sans-serif;
 }
 
 .main-nav-menu a.main-nav-link {
@@ -69,10 +69,11 @@ body {
 	transform: translateY(15px);
 }
 
+/*
 .main-nav-menu-effect li a.main-nav-link:hover,
 .main-nav-menu-effect li a.main-nav-link:focus {
 	color: #fff;
-}
+}*/
 
 .main-nav-menu-effect li a.main-nav-link:hover::before,
 .main-nav-menu-effect li a.main-nav-link:focus::before,
