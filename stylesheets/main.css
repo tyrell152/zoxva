@@ -33,6 +33,9 @@ main-nav{
     color: white !important;
 }
 
+.menuinactive {
+    color: black !important;
+}
 
 .languages{
     font-family: helvetica !important; 
