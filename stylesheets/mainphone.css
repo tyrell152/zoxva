@@ -231,7 +231,7 @@ img{
 }
 
 .subscribe{
-	background-color: #ffa500;
+	background-color: #ffa500!important;
 	font-family: helvetica;
 	font-weight: bolder;
 	color: white;
